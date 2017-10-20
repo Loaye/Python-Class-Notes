@@ -71,11 +71,25 @@ Counter({' ': 6,
          't': 2,
          'u': 1})
 
+### Exeception Handling
+-------------------------
+#### Example
+try:
+    # do a thing
+except KeyError:
+    # do something else
+except NameError:
+    # do something else
 
+### Testing with Tox
+----------------------
+Tox allows you to test both Python 2 and Python 3
 
+#### Installing
+pip install tox (inside the virtual environment)
 
-
-
+#### Using Tox
+create a tox.ini file
 
 
 
