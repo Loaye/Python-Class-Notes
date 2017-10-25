@@ -91,7 +91,16 @@ pip install tox (inside the virtual environment)
 #### Using Tox
 create a tox.ini file
 
+Inside the tox.ins
 
+[tox]
+envlist = py27, py36
+
+[testenv]
+commands = py.test --cov --cov-report term-missing
+deps =
+    pytest
+    pytest-cov
 
 
 
