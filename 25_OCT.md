@@ -1,5 +1,5 @@
-#25 OCT 17
-##SUPER CLASS
+# 25 OCT 17
+## SUPER CLASS
 ---------------
 
 [CODE FELLOWS](https://codefellows.github.io/sea-python-401d7/lectures/intro_to_python_6_super_etc.html#super)
