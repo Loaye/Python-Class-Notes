@@ -2,7 +2,7 @@
 ## CLASSES
 -----------
 
-Ex:
+### Ex:
 
 class Circle(object):
     x = 0
