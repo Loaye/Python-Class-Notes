@@ -43,7 +43,7 @@ conn, addr = server.accept()
 connection.recv(8) <----- Determines how much is recieved by bits
 server.close() <----- Closes server
 
-####CLIENT
+#### CLIENT
 ---------------
 import socket
 socket.getaddrinfo('127.0.0.1', 3455)
