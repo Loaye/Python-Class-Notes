@@ -26,11 +26,11 @@ You can do:
         ...
 ```
 
-##STATIC METHODS
+## STATIC METHODS
 ------------------
 Really no need - Just set globally
 
-##PYTEST FIXTURES
+## PYTEST FIXTURES
 -------------------
 How to setup a fixture:
 ```
