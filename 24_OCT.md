@@ -3,11 +3,14 @@
 HTTP = Hypertext Transfer Protocol
 
 #### HTTP Request
+```
 GET /index.html HTTP/1.1<CRLF>
 Host: www.example.com<CRLF>
 <CRLF>
+```
 
 #### HTTP Response
+```
 HTTP/1.1 200 OK<CRLF>
 Date: Mon, 23 May 2005 22:38:34 GMT<CRLF>
 Server: Apache/1.3.3.7 (Unix) (Red-Hat/Linux)<CRLF>
@@ -19,6 +22,7 @@ Connection: close<CRLF>
 Content-Type: text/html; charset=UTF-8<CRLF>
 <CRLF>
 <438 bytes of content>
+```
 
 #### HTTP Methods
 GET
